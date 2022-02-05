@@ -1,0 +1,23 @@
+main > div {
+    background-color: #FFF;
+    box-shadow: 0px 0px 15px #0004;
+}
+
+.gif_abertura {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media(max-width: 576px){
+    .gif_abertura img{
+        width: 100%;
+    }
+}
+
+.redes_sociais {
+    padding: 5px;
+    display:inline-flex;
+    height: 32px;
+}
+
