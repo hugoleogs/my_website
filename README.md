@@ -8,7 +8,7 @@
 
 ![Resultado final do projeto](https://github.com/hugoleogs/my_website/blob/main/src/assets/imgs/img1.png)
 
-<h4 align="center"><a href="https://hugo-gomes-beta-v8.netlify.app/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://hugo-gomes-beta-v9.netlify.app/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 O site é composto por 5 seções diferentes:
